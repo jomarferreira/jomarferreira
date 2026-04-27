@@ -1,21 +1,85 @@
-<h1 align = "center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> Ola, eu sou Jomar Ferreira</h1>
+# 👋 Olá, eu sou o Jomar Ferreira  
+### Backend Developer | Python | Java | SQL  
+💻 Desenvolvedor backend em transição, com sólida experiência em infraestrutura de TI, suporte técnico e administração de sistemas.
 
-<p align = "justify"> Me chamo Jomar Ferreira, sou um estudante de tecnologia no modo geral. Criei esse repositório para armazenar os projetos e estudos que faço ao longo da vida. Como todo estudante e trabalhador sou amante de café, trabalho como suporte técnico e estou estudando sobre Segurança da Informação, Pentest e linguagem de programação em Python pela <a href="https://tecnicasdeinvasao.com/">TDI</a></p>
+---
 
-<p align = "justify">Se alguém precisar de alguma ajuda só entrar em contato que até onde souber estou disposto a ajudar, você pode me encontrar aqui no GitHub para trocar uma ideia!</p>
+## 🇧🇷 Sobre mim
+Sou um profissional de tecnologia com mais de 10 anos de experiência em suporte técnico, infraestrutura de TI e administração de sistemas Linux e Windows.
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=joeywheelersam" alt="joeywheelersam" /></p>
+Atualmente estou em transição para desenvolvimento backend, com foco em **Python, Java e SQL**, desenvolvendo projetos práticos, estudando APIs REST e aplicando boas práticas de desenvolvimento.
 
-## 🚀 Social Media
-[![Wix Badge](https://img.shields.io/badge/-Wix-000?style=flat-square&logo=wix&logoColor=white&link=https://joeywheelersam.wixsite.com/tecnologia)](https://joeywheelersam.wixsite.com/tecnologia) [![Github Badge](https://img.shields.io/badge/-Github-100000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/joeywheelersam)](https://github.com/joeywheelersam) [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jomar.ferreira.amorim@gmail.com)](mailto:jomar.ferreira.amorim@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/uJoeyWheeler)](https://t.me/uJoeyWheeler) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/)](https://www.linkedin.com/in/jomar-ferreira-amorim/) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/joeywheelersam)](https://www.facebook.com/joeywheelersam) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/joeywheelersam/?hl=pt-br)](https://instagram.com/joeywheelersam) [![X Badge](https://img.shields.io/badge/X-000?style=flat-square&logo=x)](https://twitter.com/joeywheelersam) [![Trello Badge](https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=trello&logoColor=white&link=https://trello.com/jomarferreira)](https://trello.com/jomarferreira) [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white&link=www.notion.so/jomarferreira)](www.notion.so/jomarferreira) [![Reddit Badge](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white&link=https://www.reddit.com/u/Popular_Crew3120)](https://www.reddit.com/u/Popular_Crew3120) 
+Minha experiência anterior me proporciona:
+- Forte capacidade de resolução de problemas  
+- Visão sistêmica de aplicações  
+- Base sólida em segurança da informação  
 
-## 💻 Technologies & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github) ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=visual%20studio&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime_Text-%23575757.svg?style=flat-square&logo=sublime-text&logoColor=important) ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=flat-square&logo=arduino&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows%20terminal&logoColor=white) ![Hyper](https://img.shields.io/badge/Hyper-000000?style=flat-square&logo=hyper&logoColor=white) ![Firefox_Browser](https://img.shields.io/badge/-Firefox-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white) ![Chrome](https://img.shields.io/badge/-Chrome-4285F4?style=flat-square&logo=Google-chrome&logoColor=white) ![Tor](https://img.shields.io/badge/-Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-FFD43B?style=flat-square&logo=Python) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP) ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=MongoDB&logoColor=white) 
-<br>
+🎯 Busco uma oportunidade como **Desenvolvedor Backend Júnior**
 
-## ⚡ Statistic
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jomarferreira&theme=transparent&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jomarferreira&theme=transparent&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)-->
+## 🇺🇸 About me
+I am a technology professional with over 10 years of experience in IT support, infrastructure, and system administration (Linux and Windows).
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jomarferreira&theme=youtube-dark&border=FF0000&date_format=j%20M%5B%20Y%5D&background=000000)](https://github-readme-streak-stats.herokuapp.com)
+Currently transitioning to backend development, focusing on **Python, Java, and SQL**, building projects, studying REST APIs, and applying software development best practices.
+
+My background provides:
+- Strong problem-solving skills  
+- System-level understanding  
+- Solid foundation in information security  
+
+🎯 Looking for a **Junior Backend Developer** opportunity
+
+---
+
+## 🧠 Tech Stack
+**Backend**
+- Python
+- Java
+- SQL
+
+**Tools & Technologies**
+- Git & GitHub
+- Linux
+- APIs REST (conceitos)
+
+**Infraestrutura**
+- Windows Server
+- Linux Server
+- Redes (LAN/WAN)
+
+---
+
+## 🚀 Projetos
+
+### 💱 Currency Scraper
+Aplicação em Python para consulta de moedas internacionais utilizando web scraping.
+
+**Principais pontos:**
+- Coleta de dados com `requests` e `BeautifulSoup`
+- Processamento de dados em listas e dicionários
+- Interface CLI interativa
+- Validação de entrada e tratamento de erros
+
+🔗 Repositório:  
+https://github.com/jomarferreira/currency-scraper
+
+---
+
+## 📈 Em evolução
+Atualmente focado em:
+- Desenvolvimento backend com Python
+- Consumo e criação de APIs REST
+- Banco de dados e modelagem
+- Boas práticas de código
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: https://www.linkedin.com/in/jomar-ferreira-amorim/  
+- 💻 GitHub: https://github.com/jomarferreira  
+
+---
+
+## ⚡ Observação
+Minha transição de carreira é baseada em prática real, estudo contínuo e aplicação direta em projetos. Minha base em infraestrutura me permite desenvolver com foco em estabilidade, segurança e eficiência.
